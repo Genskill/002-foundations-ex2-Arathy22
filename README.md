@@ -25,5 +25,15 @@ int ht=get_int("Number of rows: ");
 		printf("\n");
 	}
 	}
+int x=get_int("Side 1 : ");
+int x=get_int("Side 1 : ");
+int x=get_int("Side 1 : ");
+if(x*x+y*y==z*z)
+{
+	printf("Yes");
+	}
+else
+{
+	printf("No");
+	}
 }
-
